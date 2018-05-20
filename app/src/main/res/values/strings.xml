@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+    <string name="Selection">Select Preferred Language/भाषा चुने</string>
+
+    <string-array name="Language">
+        <item>Select Preferred Language/भाषा चुने</item>
+        <item>English</item>
+        <item>हिंदी</item>
+    </string-array>
+
+
+    <!-- Category name for feedback -->
+    <string name="category_feedback">Feedback</string>
+
+
+
+    <!-- Category name for the for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for alphabets [CHAR LIMIT=20] -->
+    <string name="category_alphabets">Alphabets</string>
+    <string name="title_activity_feed_back">FeedBackActivity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
+
